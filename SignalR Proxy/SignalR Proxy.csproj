@@ -6,9 +6,12 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>SignalR.Proxy</PackageId>
     <Authors>pipe01</Authors>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Description>Connect to a SignalR Core hub and call its methods in a typed and direct manner</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/pipe01/signalr-proxy</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/pipe01/signalr-proxy</RepositoryUrl>
+    <PackageTags>signalr, proxy, core, asp.net, asp.net core</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
