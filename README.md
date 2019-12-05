@@ -1,4 +1,6 @@
 # signalr-proxy
+![Nuget](https://img.shields.io/nuget/v/SignalR.Proxy)
+
 Connect to a SignalR Core hub and call its methods in a typed and direct manner
 
 ## Usage
